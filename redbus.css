@@ -1,0 +1,60 @@
+.navbar{
+    background: #d84f57 !important;
+    color:white !important;
+}
+.jumbotron{
+    background: url('./Hero-banner-19th-updated.png');
+    height: 450px;
+    overflow: hidden;
+    background-size: cover;
+    width: 100%;
+    background-repeat: round;
+}
+article{
+    width: 972px;
+    margin-top: 30px;
+    margin: 159px auto;
+}
+.article{
+    position: relative!important;
+    display: flex;
+    
+    z-index: 5;
+}
+
+#button{
+    height: 46px;
+    width: 144px;
+    border-width: 0;
+    
+    color: #fff;
+    font-size: 17px;
+    font-weight: 615!important;
+}
+
+.button{
+    display: inline-block;
+    padding: 10px 14px 11px;
+    
+    overflow: hidden;
+    position: relative;
+   
+    transition: .1s;
+    border: none;
+    text-align: center;
+    background-color: #d84e55;
+}
+.rtol{
+    margin-right: 110px;
+
+}
+.fa-user-circle-o{
+    font-size: 30px;
+    margin-right: 5px;
+}
+.navbar-brand{
+    margin-left: 110px;
+}
+.bus,.hotl{
+    color: lightgrey;
+}
